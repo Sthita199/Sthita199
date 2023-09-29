@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Sthitapragyan
 - 👀 I’m interested in Developing projects with react
+- Sql developer
 - 💞️ Dm me if you want collaboration for projects
 - 📫 How to reach me Email- sthitapragyan199@gmail.com
 
