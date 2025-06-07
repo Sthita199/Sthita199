@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sthitapragyan
-- SQL Dev || DataAnalytics || SoftwareEngineer
+- Data Engineer || SoftwareEngineer
 - 📫 How to reach me Email- sthitapragyan199@gmail.com
 
 <!---
